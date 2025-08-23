@@ -1,8 +1,8 @@
 
 # 🥤 NRT Vending Machine (C# Console App)🥨
+(Developed by Nazim, Ridhaa, Toufeeq)
 
-Welcome to the NRT Vending Machine! This simple console application simulates a vending machine experience using procedural programming in C#. No classes, no objects—just pure, unadulterated logic.
-Developed by Nazim, Ridhaa, Toufeeq
+This simple console application simulates a vending machine experience using procedural programming in C#. No classes, no objects—just pure, unadulterated logic.
 ---
 
 ## 🚀 Features
