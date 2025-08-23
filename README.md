@@ -55,4 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify and expand upon this README to better fit your project's specifics and any additional features you may have implemented.
