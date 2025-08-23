@@ -3,8 +3,6 @@
 
 <img width="476" height="476" alt="nrt" src="https://github.com/user-attachments/assets/faca1cc4-b59b-4d1f-aefd-2f35e8a5d61d" />
 
----
-
 ## 🚀 Features
 
 * **Product Selection**: Choose from a range of items.
