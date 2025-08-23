@@ -4,8 +4,6 @@
 <img width="476" height="476" alt="nrt" src="https://github.com/user-attachments/assets/faca1cc4-b59b-4d1f-aefd-2f35e8a5d61d" />
 
 (Developed by Nazim, Ridhaa, Toufeeq)
-
-This simple console application simulates a vending machine experience using procedural programming in C#. No classes, no objects—just pure, unadulterated logic.
 ---
 
 ## 🚀 Features
