@@ -1,6 +1,3 @@
-Absolutely! Here's a README tailored for your C# console-based vending machine project, emphasizing its procedural approach without object-oriented programming:
-
----
 
 # 🥤 NRT Vending Machine (C# Console App)🥨
 
